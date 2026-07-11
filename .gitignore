@@ -1,0 +1,5 @@
+
+# playwright (screenshot用・コミット不要)
+node_modules/
+package-lock.json
+package.json
